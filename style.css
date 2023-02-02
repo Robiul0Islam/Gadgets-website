@@ -1,0 +1,53 @@
+.container{
+    margin-bottom: 70px;
+}
+.con{
+    margin-top: 70px;
+}
+.buy-button{
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    padding: 10px 30px;
+}
+.text{
+    color: black;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.logo{
+    width: 90px;
+}
+.card{
+    box-shadow: 10px 10px 30px;
+    padding: 30px 30px;
+    border: none;
+}
+.text2{
+    text-align: center;
+}
+.cat-box{
+    
+    padding: 35px;
+    box-shadow: 5px 5px 15px lightgray;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-right: 5px;
+    margin-bottom: 60px;
+    height: 150px;
+    width: 150px;
+    
+}
+.image{
+    height: 60px;
+    width: 60px;
+    
+}
+.cat{
+    text-align: center;
+}
+.last-image{
+    width: 100%;
+}
